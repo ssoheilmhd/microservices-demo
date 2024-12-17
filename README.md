@@ -9,10 +9,6 @@ web-based e-commerce app where users can browse items, add them to the cart, and
 Google uses this application to demonstrate how developers can modernize enterprise applications using Google Cloud products.
 This project has been created to use docker compose instead of kubernetes and making a CI/CD in gitlab-ci.yml for this application.
 
-If you’re using this demo, please **★Star** this repository to show your interest!
-
-**Note to Googlers:** Please fill out the form at [go/microservices-demo](http://go/microservices-demo).
-
 ## Architecture
 
 **Online Boutique** is composed of 11 microservices written in different
